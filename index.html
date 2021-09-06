@@ -11,17 +11,19 @@
 </head>
 <body>
     <header>
-        <h1>Plan-B</h1>
+        <a href="index.html">
+        <h1 id="logo">Plan-B</h1>
+        </a>
         <nav>
             <ul>
                 <li>
-                    Home
+                    <a href="index.html">Home</a>
                 </li>
                 <li>
-                    How It Works
+                    <a href="#">How It Works</a>
                 </li>
                 <li>
-                    Contact
+                    <a href="#">Contact</a>
                 </li>
             </ul>
         </nav>
@@ -29,8 +31,9 @@
 
     <section>
         <h2>About Bitcoin</h2>
-        <p>Bitcoin is a new type of digital money and, just like with all money,
-           you can store it, exchange it, and make payments with it. The key to that
+        <p>
+            Bitcoin is a new type of digital money and, just like with all money,
+            you can store it, exchange it, and make payments with it. The key to that
             makes Bitcoin different from national currencies like the US Dollar, the
             Euro or the Japanese Yen lies in its decentralized structure and opt-in model.
             What does that mean? With centralized 'fiat money' (literally money by decree), 
@@ -65,7 +68,7 @@
             All confirmed transactions are included in the block chain.
             It allows Bitcoin wallets to calculate their spendable balance
             so that new transactions can be verified thereby ensuring they're actually owned
-            by the spender. The integrity and the chronological order of the block chain are
+            by the spender. The integrity and the chronological order of the Block Chain are
             enforced with cryptography.
         </p>
         <h3>Transactions-Private Keys</h3>
@@ -78,9 +81,25 @@
             All transactions are broadcast to the network and usually begin to be confirmed
             within 10-20 minutes, through a process called mining.
         </p>
-
     </section>
-    
+    <section>
+        <h2>Contact me</h2>
+        <p>And i show you how deep the rabbit hole goes</p>
+
+        <form method="post">
+            <label for="fname">First Name</label>
+            <input type="text" id="fname" name="first_name" required>
+            <label for="lname">Last Name</label>
+            <input type="text" id="lname" name="last_name" required>
+            <label for="email">Email Address</label>
+            <input type="email" id="email" name="email_address" required>
+
+            <input type="submit" value="submit">
+        </form>
+    </section>
+    <footer>
+
+    </footer>
 
 </body>
 </html>

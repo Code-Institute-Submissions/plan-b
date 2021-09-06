@@ -1,3 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Share+Tech&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
 body {
-    font-family: Arial;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Share Tech', sans-serif;
+    font-weight: 300;
+    color: #000000;
+}
+
+/* Headings and Logo*/
+
+h1, h2 {
+    font-family: 'Roboto' sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #965215;
+}
+
+#logo {
+    text-align: center;
+    font-size: 300%;
+
 }
