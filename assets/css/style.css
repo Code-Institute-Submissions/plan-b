@@ -9,6 +9,7 @@
 body {
     font-family: 'Share Tech', sans-serif;
     font-weight: 300;
+    background-color: white;
 }
 
 p {
@@ -27,8 +28,9 @@ li {
 
 
 #hero-image {
-    background: url('../images/hero-image.jpg') no-repeat center center;
-    height: 400px;
+    background: url('../images/hero-image.jpg') no-repeat center;
+    background-size: cover;
+    height: 430px;
     width: 100%;
 }
 
@@ -38,11 +40,11 @@ li {
 }
 
 #about {
-    background-color: tomato;
+    background-color: #965215;
     width: 100%;
     box-sizing: border-box;
     padding: 5px;
-    border: solid black 10px;
+    border: solid white 5px;
     display: inline-block;
 }
 
@@ -53,6 +55,50 @@ li {
     display: inline;
 }
 
-#about p {
-    
+#basics {
+    background-color: tomato;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 5px;
+    border: solid black 10px;
+    display: inline-block;
+}
+
+#basics img {
+    width: 40%;
+    height: auto;
+    float: left;
+    display: inline;
+}
+
+#block-chain {
+    background-color: tomato;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 5px;
+    border: solid black 10px;
+    display: inline-block;
+}
+
+#block-chain img {
+    width: 40%;
+    height: auto;
+    float: right;
+    display: inline;
+}
+
+#transactions {
+    background-color: tomato;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 5px;
+    border: solid black 10px;
+    display: inline-block;
+}
+
+#transactions img {
+    width: 40%;
+    height: auto;
+    float: left;
+    display: inline;
 }
