@@ -191,4 +191,19 @@ body {
     padding: 5%;
     color: #000000;
 }
+#about {
+    background-color: #eca506;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 5px;
+    border: solid #000000 5px;
+    display: inline-block;
+}
+
+#about img, #block-chain img {
+    width: 30%;
+    height: auto;
+    float: right;
+    display: inline;
+}
 }
