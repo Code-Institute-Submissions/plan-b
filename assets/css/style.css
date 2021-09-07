@@ -113,11 +113,12 @@ p {
 }
 
 footer {
-    height: 150px;   
+    height: 150px;
+      
 }
 
 .social-networks {
-    text-align: center;    
+    text-align: center; 
 }
 
 .social-networks > li {
@@ -130,3 +131,11 @@ footer {
     padding: 5%;
     color: black;
 }
+
+input[type=text], input[type=email], input[type=tel] {
+    width: 30%;
+    padding: 8px 8px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+
