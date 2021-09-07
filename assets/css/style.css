@@ -7,6 +7,7 @@
 }
 
 body {
+    font-size: 130%;
     font-family: 'Share Tech', sans-serif;
     font-weight: 300;
     background-color: #eca506;
@@ -56,7 +57,7 @@ p {
     display: inline-block;
 }
 
-#about img {
+#about img, #block-chain img {
     width: 40%;
     height: auto;
     float: right;
@@ -72,7 +73,7 @@ p {
     display: inline-block;
 }
 
-#basics img {
+#basics img, #transactions img {
     width: 40%;
     height: auto;
     float: left;
@@ -88,13 +89,6 @@ p {
     display: inline-block;
 }
 
-#block-chain img {
-    width: 40%;
-    height: auto;
-    float: right;
-    display: inline;
-}
-
 #transactions {
     background-color: #eca506;
     width: 100%;
@@ -103,13 +97,6 @@ p {
     border: solid black 5px;
     border-bottom: solid black 10px;
     display: inline-block;
-}
-
-#transactions img {
-    width: 40%;
-    height: auto;
-    float: left;
-    display: inline;
 }
 
 footer {
@@ -132,10 +119,32 @@ footer {
     color: black;
 }
 
-input[type=text], input[type=email], input[type=tel] {
+input[type=text], input[type=email], input[type=tel], input[type=submit] {
     width: 30%;
     padding: 8px 8px;
     margin: 8px 0;
     box-sizing: border-box;
   }
 
+#section-form {
+    margin-top: 20px;
+}
+
+#form-style {
+    border: 10px solid black;
+    max-width: 700px;
+    margin: auto;
+    text-align: center;
+}
+
+label {
+    display: inline-block;
+    clear: left;
+    width: 100px;
+}
+
+input[type=submit] {
+    text-decoration: none;
+    font-weight: 700;
+    margin-left: 15%;
+}
