@@ -23,8 +23,6 @@ p {
     padding: 15px;
 }
 
-
-
 #menu li {
     display: inline;
     padding: 30px;
@@ -53,7 +51,7 @@ p {
     width: 100%;
     box-sizing: border-box;
     padding: 5px;
-    border: solid black 5px;
+    border: solid #000000 5px;
     display: inline-block;
 }
 
@@ -69,7 +67,7 @@ p {
     width: 100%;
     box-sizing: border-box;
     padding: 5px;
-    border: solid black 5px;
+    border: solid #000000 5px;
     display: inline-block;
 }
 
@@ -85,7 +83,7 @@ p {
     width: 100%;
     box-sizing: border-box;
     padding: 5px;
-    border: solid black 5px;
+    border: solid #000000 5px;
     display: inline-block;
 }
 
@@ -94,8 +92,8 @@ p {
     width: 100%;
     box-sizing: border-box;
     padding: 5px;
-    border: solid black 5px;
-    border-bottom: solid black 10px;
+    border: solid #000000 5px;
+    border-bottom: solid #000000 10px;
     display: inline-block;
 }
 
@@ -116,7 +114,7 @@ footer {
     font-size: 250%;
     margin: 1%;
     padding: 5%;
-    color: black;
+    color: #000000;
 }
 
 input[type=text], input[type=email], input[type=tel], input[type=submit] {
@@ -131,7 +129,7 @@ input[type=text], input[type=email], input[type=tel], input[type=submit] {
 }
 
 #form-style {
-    border: 10px solid black;
+    border: 10px solid #000000;
     max-width: 700px;
     margin: auto;
     text-align: center;
@@ -147,4 +145,50 @@ input[type=submit] {
     text-decoration: none;
     font-weight: 700;
     margin-left: 15%;
+}
+
+/* For small screeen sizes 641px wide and down */
+
+@media screen and (max-width: 641px) {
+
+#logo {
+    padding: 3px;
+    font-size: 150%;       
+}
+
+
+#menu li {
+    display: inline-block;
+    padding: 10px;
+    list-style: none;
+}
+
+#hero-image {
+    background: url('../images/hero-image.jpg') no-repeat center;
+    background-size: cover;
+    height: 250px;
+    width: 100%;
+}
+
+body {
+    font-size: 90%;
+    font-family: 'Share Tech', sans-serif;
+    font-weight: 600;
+    background-color: #eca506;
+}
+
+.social-networks {
+    text-align: center; 
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 210%;
+    margin: 1%;
+    padding: 5%;
+    color: #000000;
+}
 }
