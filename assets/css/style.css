@@ -113,6 +113,12 @@ input[type=text], input[type=email], input[type=tel], input[type=submit] {
     box-sizing: border-box;
 }
 
+/* extra style for submit button, cursor pointer added and backgroud color changed */
+input[type=submit] {
+    background: #4CFACC;
+    cursor: pointer;
+}
+
 
 #section-form {
     margin-top: 20px;
