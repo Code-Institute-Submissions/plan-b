@@ -1,13 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&family=Share+Tech&display=swap');
 
-/**/
 * {
     margin: 0;
     padding: 0;
     border: none;
 }
 
-/**/
+/* style for body font and background color for the website */
 body {
     font-size: 130%;
     font-family: 'Share Tech', sans-serif;
@@ -15,12 +14,12 @@ body {
     background-color: #eca506;
 }
 
-/**/
+/* font family style for paragraphs */
 p {
     font-family: 'Roboto', sans-serif;
 }
 
-/* navigation menu style */
+/* style for navigation menu to place it in horizontal and in center */
 #menu {
     text-align: center;
     letter-spacing: 2px;
@@ -47,11 +46,10 @@ p {
 }
 
 #logo {
-    padding: 5px;
-    
+    padding: 5px;   
 }
 
-/* styling for divs */
+/* styling for div section about, basics and block-chain */
 #about, #basics, #block-chain {
     background-color: #eca506;
     width: 100%;
@@ -61,7 +59,7 @@ p {
     display: inline-block;
 }
 
-/* styling for div */
+/* styling for div section transactions */
 #transactions {
     background-color: #eca506;
     width: 100%;
@@ -72,7 +70,7 @@ p {
     display: inline-block;
 }
 
-/* styling for images*/
+/* image styling for div in each section based on right side */
 #about img, #block-chain img {
     width: 40%;
     height: auto;
@@ -80,6 +78,7 @@ p {
     display: inline;
 }
 
+/* image styling for div in each section based on left side */
 #basics img, #transactions img {
     width: 40%;
     height: auto;
@@ -183,4 +182,3 @@ body {
     color: #000000;
 }
 }
-
