@@ -1,7 +1,7 @@
 # Plan-&#8383;
 
 The Plan-&#8383; is a website that contains fundamental information about Bitcoin and Block Chain technology, it is intended for any user who is starting with cryptocurrency.
-![responsive-design.JPG](./images-readme/responsive-design.JPG)
+![responsive-design.JPG](images-readme/responsive-design.JPG)
 
 
 ## UX User Experience
