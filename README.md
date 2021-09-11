@@ -10,7 +10,7 @@ The Plan-&#8383; is a website that contains fundamental information about Bitcoi
 
 * As a page visitor I want to be able to navigate the website intuitively and learn more about the bitcoin and other technologies being offered.
 * As a page visitor, I want to easily find the contact information.
-* As a customer, I want to find relavant social media links on the website.
+* As a customer, I want to find relevant social media links on the website.
 
 **Project Goal**
 
