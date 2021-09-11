@@ -127,6 +127,14 @@ No errors were returned when passing through the[W3C CSS Validator](https://jigs
 ![lighthouse-report.JPG](/images-readme/lighthouse-report.JPG)
 
 
+## Unresolved bugs
+
+**Google chrome dev tools shows 2 errors in console**
+* Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'
+* GET https://sirjarvis.github.io/favic favicon.ico:1 on.ico 404
+
+
+
 ---
 ---
 ## Deployment
@@ -198,6 +206,6 @@ These are the steps:
 
 **Acknowledgements**
 
-My partner, for her time, patience and effort and huge support.
-My mentor, Chris Quinn, for all valuable sessions, all advices and guidance.
-Code Institute and Slack community for their help and support at any time.
+* My partner, for her time, patience and effort and huge support.
+* My mentor, Chris Quinn, for all valuable sessions, all advices and guidance.
+* Code Institute and Slack community for their help and support at any time.
