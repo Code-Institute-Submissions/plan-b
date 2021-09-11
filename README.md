@@ -1,6 +1,7 @@
 # Plan-&#8383;
 
 The Plan-&#8383; is a website that contains fundamental information about Bitcoin and Block Chain technology, it is intended for any user how is starting with cryptocurrency.
+![responsive-design.JPG](/images-readme/responsive-design.JPG)
 
 
 ## UX User Experience
@@ -20,6 +21,7 @@ The Plan-&#8383; is a website that contains fundamental information about Bitcoi
 ## Design
 
 **Color Scheme**
+![main-colors.png](/images-readme/main-colors.png)
 
 * Colors were sourced from [Coolors](https://coolors.co/)
 * To achieve good contrast only 3 colours were used: #ECA506, #000000, #4CFACC.
@@ -37,29 +39,38 @@ The Plan-&#8383; is a website that contains fundamental information about Bitcoi
 * Navigation has been simplify so the user can easly find different page sections.
 
 **Header**
+![header.JPG](/images-readme/header.JPG)
 * Logo has been placed on upper right corner of header, same black color has been used and text size has been increased.
 * Logo contains special Bitcoin unicode.
 
 **Footer**
+![footer.JPG](/images-readme/footer.JPG)
 * The footer has been simplify and the same background color has been used as on header.
 * Footer contains 4 clickable social media icons.
 * Icons are opening in new tab.
 
 **Landing page**
+![hero-image.JPG](/images-readme/hero-image.JPG)
 * Hero image represents separation beetween world of fiat currency and new digital era of cryptocurrency.
 * Black color is dominating in image and gives a user great contrast experience.
 
 **Section "Home"**
-* Shows to user main image and partial text from section "About Bitcoin"
+![section-home.JPG](/images-readme/section-home.JPG)
+* Shows to user hero image and partial text from section "About Bitcoin"
 
 **Section "About Bitcoin"**
+![about-bitcoin.JPG](/images-readme/about-bitcoin.JPG)
 * Contains a text that explains what is Bitcoin, and includes a small image on right side so user can have a better visual experience.
 
 **Section "How it Works"**
-* Shows user a section that contains 3 separated texts with fundamental information about Bitcoin basics for a new user, balances-block chain and transactions-private keys.
+![how-it-works1.JPG](/images-readme/how-it-works1.JPG)
+* Shows user a section that contains 3 separated text sections with fundamental information about Bitcoin basics for a new user, balances-block chain and transactions-private keys.
+![block-chain2.JPG](/images-readme/block-chain2.JPG)
+![private-keys3.JPG](/images-readme/private-keys3.JPG)
 * Each section contains eye catching image so user can have better visual experience and connection to text.
 
 **Section "Contact me"**
+![contact-me.JPG](/images-readme/contact-me.JPG)
 * Directs user at the bottom of the page.
 * Contains a contact form where user can submit their details and add additional message.
 * Submit button contains eye catching bright green color.
