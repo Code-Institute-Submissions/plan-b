@@ -13,7 +13,21 @@ The Plan-&#8383; is a website that contains fundamental information about Bitcoi
 
 **Project Goal**
 
-* 
+* Website goal is to reach any person who is interested in cryptocurrency.
+* Important task of this website is to help in making Bitcoin more mainstream.
+---
+
+## Design
+
+**Color Scheme**
+
+* Colors were sourced from [Coolors](https://coolors.co/)
+* To achieve good contrast only 3 colours were used: #ECA506, #000000, #4CFACC.
+
+**Typography**
+
+* The main font used in the site is "Roboto", with Sans Serif as the backup font in case Roboto is not being imported correctly. "Share Tech" is used for headings, logo, nav menu, second font was suggested by Google Fonts.
+
 ---
 ## Features
 
