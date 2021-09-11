@@ -1,7 +1,7 @@
 # Plan-&#8383;
 
-The Plan-&#8383; is a website that contains fundamental information about Bitcoin and Block Chain technology, it is intended for any user how is starting with cryptocurrency.
-![responsive-design.JPG](/images-readme/responsive-design.JPG)
+The Plan-&#8383; is a website that contains fundamental information about Bitcoin and Block Chain technology, it is intended for any user who is starting with cryptocurrency.
+![responsive-design.JPG](../images-readme/responsive-design.JPG)
 
 
 ## UX User Experience
@@ -112,6 +112,7 @@ The Plan-&#8383; is a website that contains fundamental information about Bitcoi
 * I tested the website on different devices and operating systems Laptop (Windows), Tablet Samsung Galaxy Tab A (Android), and Galaxy Note 20 Ultra 5G (Android). The website worked perfectly on all devices.
 * I confirmed that navigation, about section, and contact are all readable, and easy to understand.
 * I can confirm that the contact form works correctly, and that the email field will only accept an email and also that the submit button works.
+* The Website was successfuly tested on [ResponsiveDesign](http://ami.responsivedesign.is/#)
 
 **Validator Testing**
 
@@ -189,7 +190,7 @@ These are the steps:
 * Bitcoin unicode was taken from [Unicode-table](https://unicode-table.com/en/)
 
 **Code**
-* [MDN](https://developer.mozilla.org/en-US/),[W3SCHOOLS](https://www.w3schools.com/),[STACKOVERFLOW](https://stackoverflow.com/) were used on daily basis, to better understand the code.
+* [MDN](https://developer.mozilla.org/en-US/), [W3SCHOOLS](https://www.w3schools.com/), [STACKOVERFLOW](https://stackoverflow.com/) were used on daily basis, to better understand the code.
 
 * This readme document was based on research on several readme documents such as the Code Institute's readme [Sample](https://github.com/Code-Institute-Solutions/SampleREADME).
 
