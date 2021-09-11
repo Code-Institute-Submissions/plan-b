@@ -30,6 +30,19 @@ The Plan-&#8383; is a website that contains fundamental information about Bitcoi
 
 * The main font used in the site is "Roboto", with Sans Serif as the backup font in case Roboto is not being imported correctly. "Share Tech" is used for headings, logo, nav menu, second font was suggested by Google Fonts.
 
+**Wireframes**
+
+* [Balsamiq](https://balsamiq.com/) has been used to showcase the concept of the website.
+>**Desktop version**
+![wire1.JPG](/images-readme/wire1.JPG)
+![wire2.JPG](/images-readme/wire2.JPG)
+![wire3.jpg](/images-readme/wire3.JPG)
+
+>**Mobile and Tablet version**
+![wiremobile1.JPG](/images-readme/wiremobile1.JPG)
+![wiremobile2.JPG](/images-readme/wiremobile2.JPG)
+![wiremobile3.JPG](/images-readme/wiremobile3.JPG)
+
 ---
 ## Features
 
@@ -103,10 +116,15 @@ The Plan-&#8383; is a website that contains fundamental information about Bitcoi
 **Validator Testing**
 
 No errors were returned when passing through the [W3C HTML Validator](https://validator.w3.org/nu/)
+![htmlvalidator.JPG](/images-readme/htmlvalidator.JPG)
 
 No errors were returned when passing through the[W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+![css-validator.JPG](/images-readme/css-validator.JPG)
 
-Lighthouse
+**Lighthouse Report**
+
+![lighthouse-report.JPG](/images-readme/lighthouse-report.JPG)
+
 
 ---
 ---
